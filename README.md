@@ -1,0 +1,1 @@
+# deploy-hugo-site-gcp-class
